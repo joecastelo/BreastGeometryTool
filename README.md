@@ -6,4 +6,4 @@
 
 #### Just Compile it and have fun! 
 
-[!me](https://github.com/joecastelo/BreastGeometryTool/blob/1bb36a0b19a4de652a949f3441b6a46ed57e51b6/BREASGEOMETRYTOOL.gif)
+![How it works?](https://github.com/joecastelo/BreastGeometryTool/blob/1bb36a0b19a4de652a949f3441b6a46ed57e51b6/BREASGEOMETRYTOOL.gif)
