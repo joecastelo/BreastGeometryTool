@@ -6,4 +6,4 @@
 
 #### Just Compile it and have fun! 
 
-![alt text](https://github.com/joecastelo/BreastGeometryTool/BREASGEOMETRYTOOL.gif)
+![GIF](https://raw.githubusercontent.com/joecastelo/BreastGeometryTool/BREASGEOMETRYTOOL.gif)
